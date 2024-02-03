@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSP - Hello World</title>
+  <title>REST Homework</title>
 </head>
 <body>
-<h1><%= "Hello World!" %></h1>
+<h1><%= "REST API FOR PERSONS!" %></h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="persons/">Get all persons</a>
 </body>
 </html>
